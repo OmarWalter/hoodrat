@@ -1100,7 +1100,7 @@
           t = async () => {
             try {
               await navigator.clipboard.writeText(
-                "0xComingSoon"
+                "0x638927db4387b5a35462f3da30942b40e95ce66e"
               ),
                 i(!0),
                 setTimeout(() => i(!1), 1500);
@@ -1117,7 +1117,7 @@
               "text-md relative cursor-pointer rounded-full bg-white/15 px-2 font-bold uppercase text-sky-800 backdrop-blur-xl transition-colors hover:text-sky-600 md:text-xl",
             title: "Click to copy",
             children: [
-              "CA: 0xComingSoon",
+              "CA: 0x638927db4387b5a35462f3da30942b40e95ce66e",
               e &&
                 (0, n.jsx)("span", {
                   className:
@@ -1142,7 +1142,7 @@
                 "hero-social relative z-20 flex items-center gap-4 rounded-full bg-white/10 p-1 backdrop-blur-xl",
               children: [
                 (0, n.jsxs)("a", {
-                  href: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xComingSoon",
+                  href: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0x638927db4387b5a35462f3da30942b40e95ce66e",
                   target: "_blank",
                   rel: "noopener noreferrer",
                   className:

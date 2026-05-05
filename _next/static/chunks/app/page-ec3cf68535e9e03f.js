@@ -944,7 +944,7 @@
                           children: [
                             (0, n.jsx)(u, {
                               buttonLink: {
-                                url: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xComingSoon",
+                                url: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0x638927db4387b5a35462f3da30942b40e95ce66e",
                                 target: "_blank",
                               },
                               buttonText: "Buy Now",
