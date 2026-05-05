@@ -257,7 +257,7 @@
                   fontSize: "1.5rem",
                   fontFamily: 'Georgia, "Times New Roman", Times, serif',
                 },
-                children: "Elephanto FAN SITE PRIVACY POLICY",
+                children: "Hoodrat by Matt Furie FAN SITE PRIVACY POLICY",
               }),
               (0, n.jsx)("p", {
                 style: {
@@ -286,7 +286,7 @@
                   fontFamily: 'Georgia, "Times New Roman", Times, serif',
                 },
                 children:
-                  "This website (“Site”) is an independent, fan-created project developed solely for entertainment purposes. It is not affiliated with, sponsored by, endorsed by, or officially connected to any entity, brand, organization, or blockchain project named “Elephanto” or similar.",
+                  "This website (“Site”) is an independent, fan-created project developed solely for entertainment purposes. It is not affiliated with, sponsored by, endorsed by, or officially connected to any entity, brand, organization, or blockchain project named “Hoodrat by Matt Furie” or similar.",
               }),
               (0, n.jsx)("p", {
                 style: {
@@ -294,7 +294,7 @@
                 },
                 children: (0, n.jsx)("strong", {
                   children:
-                    "Elephanto is a meme. This Site is a joke. Nothing herein constitutes financial, legal, tax, or professional advice. Use at your own risk.",
+                    "Hoodrat by Matt Furie is a meme. This Site is a joke. Nothing herein constitutes financial, legal, tax, or professional advice. Use at your own risk.",
                 }),
               }),
               (0, n.jsx)("h4", {
@@ -488,7 +488,7 @@
                   "For questions about these Terms of Use, please contact: ",
                   (0, n.jsx)("br", {}),
                   (0, n.jsx)("strong", { children: "Email:" }),
-                  " hello@theelephanto.com",
+                  " hello@theHoodrat by Matt Furie.com",
                   (0, n.jsx)("br", {}),
                   (0, n.jsx)("strong", { children: "Twitter:" }),
                   " @hoodratbymf (run by Chad in his basement)",
@@ -528,7 +528,7 @@
                   }),
                   (0, n.jsx)("li", {
                     children:
-                      "The Elephanto token has no intrinsic value, utility, or investment purpose.",
+                      "The Hoodrat by Matt Furie token has no intrinsic value, utility, or investment purpose.",
                   }),
                   (0, n.jsx)("li", {
                     children:
@@ -595,7 +595,7 @@
                 },
                 children: (0, n.jsx)("strong", {
                   children:
-                    "THIS WEBSITE IS AN INDEPENDENT, COMMUNITY-DRIVEN PLATFORM FOR ENTERTAINMENT PURPOSES ONLY. IT DOES NOT OFFICIALLY REPRESENT Elephanto. Elephanto HAS NO CENTRAL OWNER OR AUTHORITY AND IS A FULLY DECENTRALIZED TOKEN.",
+                    "THIS WEBSITE IS AN INDEPENDENT, COMMUNITY-DRIVEN PLATFORM FOR ENTERTAINMENT PURPOSES ONLY. IT DOES NOT OFFICIALLY REPRESENT Hoodrat by Matt Furie. Hoodrat by Matt Furie HAS NO CENTRAL OWNER OR AUTHORITY AND IS A FULLY DECENTRALIZED TOKEN.",
                 }),
               }),
               (0, n.jsx)("h4", {
@@ -630,7 +630,7 @@
                   fontSize: "1.1rem",
                   fontFamily: 'Georgia, "Times New Roman", Times, serif',
                 },
-                children: "3. NATURE OF Elephanto",
+                children: "3. NATURE OF Hoodrat by Matt Furie",
               }),
               (0, n.jsxs)("p", {
                 style: {
@@ -639,7 +639,7 @@
                 children: [
                   (0, n.jsx)("strong", {
                     children:
-                      "Elephanto IS A FULLY DECENTRALIZED TOKEN WITH NO CENTRAL OWNERSHIP OR AUTHORITY.",
+                      "Hoodrat by Matt Furie IS A FULLY DECENTRALIZED TOKEN WITH NO CENTRAL OWNERSHIP OR AUTHORITY.",
                   }),
                   " ",
                   "It can be used by anyone in any manner they choose, in accordance with applicable laws and regulations.",
@@ -650,7 +650,7 @@
                   fontFamily: 'Georgia, "Times New Roman", Times, serif',
                 },
                 children: (0, n.jsx)("strong", {
-                  children: "Key characteristics of Elephanto:",
+                  children: "Key characteristics of Hoodrat by Matt Furie:",
                 }),
               }),
               (0, n.jsxs)("ul", {
@@ -692,7 +692,7 @@
                 },
                 children: [
                   (0, n.jsx)("strong", { children: "NOT FINANCIAL ADVICE:" }),
-                  " THIS WEBSITE DOES NOT PROVIDE FINANCIAL OR INVESTMENT ADVICE. ALWAYS CONSULT A PROFESSIONAL BEFORE MAKING ANY FINANCIAL DECISIONS INVOLVING Elephanto OR ANY OTHER CRYPTOCURRENCY.",
+                  " THIS WEBSITE DOES NOT PROVIDE FINANCIAL OR INVESTMENT ADVICE. ALWAYS CONSULT A PROFESSIONAL BEFORE MAKING ANY FINANCIAL DECISIONS INVOLVING Hoodrat by Matt Furie OR ANY OTHER CRYPTOCURRENCY.",
                 ],
               }),
               (0, n.jsx)("p", {
@@ -743,7 +743,7 @@
                   fontFamily: 'Georgia, "Times New Roman", Times, serif',
                 },
                 children:
-                  "Elephanto partnerships consist solely of community collaborations and do not involve formal contracts or agreements. The Elephanto project does not endorse or vet any third-party applications, exchanges, or platforms where Elephanto may be traded or used.",
+                  "Hoodrat by Matt Furie partnerships consist solely of community collaborations and do not involve formal contracts or agreements. The Hoodrat by Matt Furie project does not endorse or vet any third-party applications, exchanges, or platforms where Hoodrat by Matt Furie may be traded or used.",
               }),
               (0, n.jsx)("p", {
                 style: {
@@ -787,7 +787,7 @@
                   fontFamily: 'Georgia, "Times New Roman", Times, serif',
                 },
                 children:
-                  "Users are responsible for complying with all applicable local KYC (Know Your Customer) and AML (Anti-Money Laundering) laws and regulations when engaging with Elephanto.",
+                  "Users are responsible for complying with all applicable local KYC (Know Your Customer) and AML (Anti-Money Laundering) laws and regulations when engaging with Hoodrat by Matt Furie.",
               }),
               (0, n.jsx)("p", {
                 style: {
@@ -840,7 +840,7 @@
                   fontFamily: 'Georgia, "Times New Roman", Times, serif',
                 },
                 children:
-                  "By using this Website and engaging with Elephanto, you acknowledge and accept the following risks:",
+                  "By using this Website and engaging with Hoodrat by Matt Furie, you acknowledge and accept the following risks:",
               }),
               (0, n.jsxs)("ul", {
                 style: {
@@ -896,7 +896,7 @@
                   fontFamily: 'Georgia, "Times New Roman", Times, serif',
                 },
                 children:
-                  "TO THE FULLEST EXTENT PERMISSIBLE BY LAW, THE WEBSITE OPERATORS, DEVELOPERS, CONTRIBUTORS, AND ALL ASSOCIATED PARTIES SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES ARISING FROM YOUR USE OF THE WEBSITE OR ENGAGEMENT WITH Elephanto — INCLUDING LOSS OF FUNDS, DATA, PROFITS, OR REPUTATION.",
+                  "TO THE FULLEST EXTENT PERMISSIBLE BY LAW, THE WEBSITE OPERATORS, DEVELOPERS, CONTRIBUTORS, AND ALL ASSOCIATED PARTIES SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES ARISING FROM YOUR USE OF THE WEBSITE OR ENGAGEMENT WITH Hoodrat by Matt Furie — INCLUDING LOSS OF FUNDS, DATA, PROFITS, OR REPUTATION.",
               }),
               (0, n.jsx)("h4", {
                 style: {
@@ -974,7 +974,7 @@
                   "For questions about these Terms of Use, please contact: ",
                   (0, n.jsx)("br", {}),
                   (0, n.jsx)("strong", { children: "Email:" }),
-                  " hello@theelephanto.com",
+                  " hello@theHoodrat by Matt Furie.com",
                   (0, n.jsx)("br", {}),
                   (0, n.jsx)("strong", { children: "Twitter:" }),
                   " @hoodratbymf (run by Chad in his basement)",

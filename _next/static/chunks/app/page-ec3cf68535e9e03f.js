@@ -348,7 +348,7 @@
           {
             id: "robed",
             slides: [
-              "Title: “ELEPHANTO: Official Currency of Unlicensed Gurus”",
+              "Title: “Hoodrat by Matt Furie: Official Currency of Unlicensed Gurus”",
               "Abstract: “Wear the robe. Skip the sermon.”",
               "Tokenomics: “Burns when you apologize for being extra.”",
               "Utility: “Grants +10 aura. -10 for bad vibes.”",
@@ -358,7 +358,7 @@
           {
             id: "taco",
             slides: [
-              "Title: “ELEPHANTO: Taco-Secured Blockchain”",
+              "Title: “Hoodrat by Matt Furie: Taco-Secured Blockchain”",
               "Abstract: “If the tacos stop, the chain breaks.”",
               "Tokenomics: “Inflation = guac prices. Deflation = nap time.”",
               "Staking: “Lock tokens. Earn crunch.”",
@@ -368,9 +368,9 @@
           {
             id: "frogs",
             slides: [
-              "Title: “ELEPHANTO: Frog-Resistant Asset Class”",
+              "Title: “Hoodrat by Matt Furie: Frog-Resistant Asset Class”",
               "Abstract: “They tried suits. They failed. We laughed.”",
-              "Tokenomics: “50% ELEPHANTO. 50% ‘idk man just vibes’.”",
+              "Tokenomics: “50% Hoodrat by Matt Furie. 50% ‘idk man just vibes’.”",
               "Governance: “Decisions made via rock-paper-scissors-lizard-Spock.”",
               "Note: “Frogs may audit. Results ignored.”",
             ],
@@ -378,9 +378,9 @@
           {
             id: "lost",
             slides: [
-              "Title: “ELEPHANTO: For the Spiritually Unemployable”",
+              "Title: “Hoodrat by Matt Furie: For the Spiritually Unemployable”",
               "Abstract: “No roadmap. Just vibes & questionable decisions.”",
-              "Tokenomics: “Mints when ELEPHANTO says ‘Wait, that’s a good idea?’”",
+              "Tokenomics: “Mints when Hoodrat by Matt Furie says ‘Wait, that’s a good idea?’”",
               "Use: “Trade for wisdom, tacos, or someone else’s problems.”",
               "Exit Strategy: “There isn’t one. You’re part of the art now.”",
             ],
@@ -388,7 +388,7 @@
           {
             id: "third",
             slides: [
-              "Title: “ELEPHANTO: Third Eye Verified. Wallet Not Required.”",
+              "Title: “Hoodrat by Matt Furie: Third Eye Verified. Wallet Not Required.”",
               "Abstract: “If you ‘get it,’ you’re already holding.”",
               "Tokenomics: “Supply = how many frogs I ignored today.”",
               "Utility: “Worthless? Maybe. Worth it? Absolutely.”",
@@ -398,7 +398,7 @@
           {
             id: "avocado",
             slides: [
-              "Title: “ELEPHANTO: Backed by Avocado Toast & Cosmic Irony”",
+              "Title: “Hoodrat by Matt Furie: Backed by Avocado Toast & Cosmic Irony”",
               "Abstract: “Boomers hate it. Millennials manifest with it.”",
               "Tokenomics: “Price = cost of brunch \xf7 emotional damage.”",
               "Staking: “Hold to earn ‘Basic Witch Energy’ NFTs.”",
