@@ -1038,7 +1038,7 @@
                             children: [
                               (0, n.jsx)("p", {
                                 children:
-                                  "Hoodrat the rat in ‘The Nightriders’ by Matt Furie, the artist behind Pepe.",
+                                  "Hoodrat the rat in ‘The Night Riders’ by Matt Furie, the artist behind Pepe.",
                               }),
                               
                               (0, n.jsx)("div", {
