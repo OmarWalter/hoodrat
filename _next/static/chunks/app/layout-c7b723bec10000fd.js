@@ -1002,32 +1002,32 @@
                 "relative mx-auto flex w-full max-w-4xl justify-center px-4 py-10",
               children: [
                 (0, n.jsx)(o, {}),
-                (0, n.jsx)("div", {
-                  className:
-                    "absolute right-24 top-0 size-28 origin-center -translate-y-40 translate-x-20 md:size-48 md:-translate-y-28",
-                  children: (0, n.jsx)(a, {
-                    className: "animate-spin [animation-duration:8s]",
-                  }),
-                }),
-                (0, n.jsxs)("div", {
-                  className:
-                    "absolute bottom-4 right-4 flex space-x-6 text-sm font-medium",
-                  children: [
-                    (0, n.jsx)("button", {
-                      onClick: () => l("privacy"),
-                      className: "hover:underline focus:outline-none",
-                      "aria-label": "Privacy Policy",
-                      children: "Privacy Policy",
-                    }),
-                    (0, n.jsx)("span", { children: "•" }),
-                    (0, n.jsx)("button", {
-                      onClick: () => l("terms"),
-                      className: "hover:underline focus:outline-none",
-                      "aria-label": "Terms of Use",
-                      children: "Terms of Use",
-                    }),
-                  ],
-                }),
+                // (0, n.jsx)("div", {
+                //   className:
+                //     "absolute right-24 top-0 size-28 origin-center -translate-y-40 translate-x-20 md:size-48 md:-translate-y-28",
+                //   children: (0, n.jsx)(a, {
+                //     className: "animate-spin [animation-duration:8s]",
+                //   }),
+                // }),
+                // (0, n.jsxs)("div", {
+                //   className:
+                //     "absolute bottom-4 right-4 flex space-x-6 text-sm font-medium",
+                //   children: [
+                //     (0, n.jsx)("button", {
+                //       onClick: () => l("privacy"),
+                //       className: "hover:underline focus:outline-none",
+                //       "aria-label": "Privacy Policy",
+                //       children: "Privacy Policy",
+                //     }),
+                //     (0, n.jsx)("span", { children: "•" }),
+                //     (0, n.jsx)("button", {
+                //       onClick: () => l("terms"),
+                //       className: "hover:underline focus:outline-none",
+                //       "aria-label": "Terms of Use",
+                //       children: "Terms of Use",
+                //     }),
+                //   ],
+                // }),
               ],
             }),
             i &&
